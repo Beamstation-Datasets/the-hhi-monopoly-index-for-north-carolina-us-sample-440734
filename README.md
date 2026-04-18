@@ -1,6 +1,6 @@
 # The HHI Monopoly Index for North Carolina, US
 
-> Free BeamStation sample export with 96 rows and masked direct-contact fields.
+> Free BeamStation sample export with 89 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `440734` |
 | Location | North Carolina |
 | Category | Restaurants |
-| Full dataset size | 964 records |
-| Free sample size | 96 records (9.96%) |
-| Last export | 2026-04-08T00:53:20.298175+00:00 |
+| Full dataset size | 891 records |
+| Free sample size | 89 records (9.99%) |
+| Last export | 2026-04-15T06:34:54.877180+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/the-hhi-monopoly-index-for-north-carolina-us-sample-440734/releases/download/sample-latest/beamstation_440734_restaurants-us-nc_SAMPLE_DIST.csv) |
 
 ## What is in this sample
