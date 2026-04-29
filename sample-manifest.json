@@ -1,12 +1,12 @@
 {
-  "export_job_id": "df7342fe-0505-4286-ad35-2d9d5626f754",
+  "export_job_id": "58814b7d-2153-461f-9e72-376dc45a8359",
   "id_short": 440734,
-  "published_at": "2026-04-22T19:44:12Z",
+  "published_at": "2026-04-29T19:23:50Z",
   "repo_name": "the-hhi-monopoly-index-for-north-carolina-us-sample-440734",
   "sample_asset_name": "beamstation_440734_restaurants-us-nc_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/440734/beamstation_440734_restaurants-us-nc_SAMPLE_DIST.csv",
-  "sample_records": 85,
-  "sample_sha256": "9cd2bdd680b7bebe511297276672b335faabc8703947aa99bcf07cd6d952bb6d",
-  "sample_size_bytes": 336183,
-  "total_records": 852
+  "sample_records": 94,
+  "sample_sha256": "da642296f5fb5e828c2dbc88dce5487f026bd18996489f0688ebe1aea359b0d5",
+  "sample_size_bytes": 359218,
+  "total_records": 943
 }
